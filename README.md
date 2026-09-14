@@ -61,6 +61,6 @@ The final solution will provide:
 The project will follow AWS IAM least-privilege principles and will
 not store credentials or secrets in the repository.
 
-## 🚧 Project Status
+## Project Status
 
 Day 1 - AWS account setup and S3 data lake foundation
